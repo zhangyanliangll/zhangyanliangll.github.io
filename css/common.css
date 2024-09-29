@@ -1,0 +1,9 @@
+.warn {
+  color: yellow;
+  margin-right: 3px;
+}
+
+.error {
+  color: red;
+  margin-right: 3px;
+}
